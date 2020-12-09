@@ -1,5 +1,6 @@
 # word-cloud
-Word cloud is an image of words built from the input text based on words frequencies. Visualized content analysis
+
+Word cloud is an image of words built from the input text based on words frequencies. Visualized content analysis.
 
 This script creates a word cloud from an input text. 
 It processes the text, removes punctuation, ignores case and words that do not contain all alphabets, counts the frequencies, and ignores uninteresting or irrelevant words.
