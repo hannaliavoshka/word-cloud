@@ -1,3 +1,5 @@
+![](https://github.com/hannaliavoshka/word-cloud/blob/main/word-cloud-wiki-belarus.jpg)
+
 # word-cloud
 
 Word cloud is an image of words built from the input text based on words frequencies. Visualized content analysis.
